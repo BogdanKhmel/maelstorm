@@ -1,0 +1,45 @@
+<style>
+    .container-fluid {
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 300;
+    }
+
+    .nav1 {
+      background-color: #00b0f0;
+    }
+
+    .header {
+      background-color: #0070c0;
+    }
+
+
+    .article1 {
+      background-color: #c00000;
+      min-height: 10rem;
+    }
+
+    .article2 {
+      background-color: #7030a0
+      }
+
+    .article3 {
+      background-color: #00b0f0;
+      }
+
+    .aside {
+      background-color: #00b050;
+    }
+
+    .footer {
+      background-color: #7030a0;
+    }
+
+    .nav1,
+    .header,
+    .article,
+    .aside,
+    .footer {
+      color: #fff;
+    }
+  </style>
